@@ -1,0 +1,19 @@
+.btn-blue {
+	background-color: darkslateblue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+a:hover {
+	color: blueviolet;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;

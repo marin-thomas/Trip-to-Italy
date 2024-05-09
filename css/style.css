@@ -1,0 +1,44 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: unset;
+	font-size: 18px;
+	background: #F5FBFF;
+	color: black;
+	font-family: unset;
+	font-weight: normal;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: unset;
+	font-weight: bold;
+}
+
+h1 {
+	margin-top: 100px;
+}
+
+a {
+	text-decoration: none;
+	font-weight: 500;
+}
+
+
+
+a:hover {
+	color: blueviolet;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
